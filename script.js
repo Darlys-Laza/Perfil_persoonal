@@ -1,5 +1,4 @@
 // MENÚ RESPONSIVE
-
 const menuToggle = document.getElementById("menu-toggle");
 const navMenu = document.getElementById("nav-menu");
 
@@ -17,7 +16,6 @@ navLinks.forEach(function (link) {
     });
 });
 
-
 // FORMULARIO DE CONTACTO
 
 const contactForm = document.getElementById("contact-form");
@@ -33,7 +31,6 @@ const asuntoError = document.getElementById("asunto-error");
 const mensajeError = document.getElementById("mensaje-error");
 
 const formMessage = document.getElementById("form-message");
-
 
 // VALIDACIÓN DEL FORMULARIO
 

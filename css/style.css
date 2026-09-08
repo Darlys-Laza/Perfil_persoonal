@@ -241,23 +241,23 @@ section p {
 }
 
 .progress.css {
-    width: 80%;
+    width: 75%;
 }
 
 .progress.javascript {
-    width: 65%;
-}
-
-.progress.python {
     width: 70%;
 }
 
+.progress.python {
+    width: 80%;
+}
+
 .progress.java {
-    width: 65%;
+    width: 75%;
 }
 
 .progress.git {
-    width: 75%;
+    width: 85%;
 }
 
 
